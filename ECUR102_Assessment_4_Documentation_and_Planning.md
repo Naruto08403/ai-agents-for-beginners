@@ -3,7 +3,9 @@
 **Student Name:** [Student Name]  
 **Student ID:** [Student ID]  
 **Date:** [Date]  
-**Word Count:** Observation (800 words), Design Description (500 words)
+**Word Count:** Observation (800 words), Design Description (500 words)  
+**Assessment Weight:** 30%  
+**Learning Outcomes:** c., d., and e.
 
 ---
 
@@ -25,7 +27,8 @@
 **Children Present:** 8 children (ages 2-5 years)  
 **Educator:** Ms. Sarah Thompson  
 **Observer:** [Observer Name]  
-**Documentation Method:** Narrative Observation with Learning Story Elements
+**Documentation Method:** Narrative Observation with Learning Story Elements  
+**Video Source:** ECA Learning Hub – Observing Practice Series NQS PLP – Mixed age grouping (adapted scenario)
 
 ### Children Present
 - **Emma** (5 years, 2 months) - Confident communicator, enjoys leadership roles
@@ -167,6 +170,8 @@ Throughout the observation, Ms. Thompson's pedagogy consistently reflects respec
 
 ## 3. Learning Area Design and Analysis
 
+**Note:** Digital images for each learning area would be sourced from professional early childhood environment photography or created using the detailed image prompts provided in Section 2. Images would demonstrate high-quality, developmentally appropriate spaces that reflect current best practices in early childhood education.
+
 ### 3.1 Indoor Learning Area 1: Construction & Blocks Area
 
 **Digital Image Reference:** Modern wooden block area with varied building materials, soft lighting, and low shelving for independent access.
@@ -186,7 +191,12 @@ This area supports **constructive play** and **functional play** as children man
 - **Mathematics and Numeracy:** Counting, measurement, geometry, patterns, spatial relationships
 - **Science:** Balance, gravity, stability, cause and effect
 - **Engineering:** Design thinking, problem-solving, structural engineering concepts
+- **Drama:** Role-playing with constructed environments (castles, houses, cities)
 - **Art:** Aesthetic arrangement, symmetry, creative expression through construction
+- **Music:** Rhythm creation by tapping blocks, exploring sound properties of different materials
+- **Dance:** Movement inspired by construction (building up, falling down, stability)
+- **Technology:** Use of simple tools, digital documentation of constructions
+- **Sensory Exploration:** Texture of different building materials, weight comparison, spatial awareness
 
 ### 3.2 Indoor Learning Area 2: Sensory/Science Discovery Area
 
@@ -206,6 +216,11 @@ This area promotes **exploratory play** and **sensory play** as children investi
 - **Literacy and Language:** Scientific vocabulary, observation recording, questioning strategies
 - **Mathematics and Numeracy:** Classification, measurement, data collection
 - **Science:** Scientific method, life sciences, earth sciences, physics concepts
+- **Engineering:** Problem-solving with investigation tools, design of simple experiments
+- **Drama:** Role-playing as scientists, storytelling about discoveries
+- **Art:** Creating with natural materials, observational drawing
+- **Music:** Exploring sounds created by different materials
+- **Dance:** Movement inspired by natural phenomena (flowing water, growing plants)
 - **Technology:** Simple tools like magnifying glasses, scales, measuring devices
 - **Sensory Exploration:** Tactile, visual, auditory, and olfactory investigations
 
@@ -224,10 +239,15 @@ This area supports **risky play** and **nature play** as children navigate uneve
 
 #### Learning Opportunities
 - **Physical Wellbeing:** Cardiovascular fitness, strength building, risk assessment skills
+- **Literacy and Language:** Environmental vocabulary, storytelling with natural props, nature journaling
 - **Mathematics and Numeracy:** Estimation, measurement in natural contexts, geometric shapes in nature
 - **Science:** Ecology, weather patterns, seasonal changes, animal habitats
 - **Engineering:** Natural engineering challenges, bridge building with logs
-- **Art:** Natural art creation, appreciation of natural beauty
+- **Drama:** Role-playing adventures as explorers, storytelling with natural materials
+- **Art:** Natural art creation, appreciation of natural beauty, land art sculptures
+- **Music:** Creating natural instruments, listening to environmental sounds
+- **Dance:** Movement activities inspired by nature (wind, animals, growing plants)
+- **Technology:** Digital documentation of nature discoveries, weather monitoring tools
 - **Sensory Exploration:** Weather awareness, texture variations, natural sounds and smells
 
 ### 3.4 Outdoor Learning Area 2: Garden Beds & Herb Spiral
@@ -249,7 +269,11 @@ This area promotes **productive play** through caring for living things and **sc
 - **Mathematics and Numeracy:** Measuring growth, counting seeds, timing of planting cycles
 - **Science:** Life sciences, nutrition, seasonal cycles, soil composition
 - **Engineering:** Irrigation design, tool use, garden bed construction
-- **Art:** Garden design aesthetics, natural dyeing with plants
+- **Drama:** Role-playing as gardeners, farmers, or chefs using harvested produce
+- **Art:** Garden design aesthetics, natural dyeing with plants, flower arranging
+- **Music:** Garden songs, rhythm of digging and planting activities
+- **Dance:** Movement activities mimicking plant growth, seasonal changes
+- **Technology:** Weather monitoring tools, garden planning apps, digital growth documentation
 - **Sensory Exploration:** Taste, smell, and texture of herbs and vegetables
 
 ---
@@ -278,8 +302,8 @@ Ruprecht, K., Elicker, J., & Choi, J. (2016). Continuity of care, caregiver-chil
 
 **Total Word Count:**
 - Observation Record: 683 words
-- Design Description: 497 words
-- **Combined: 1,180 words**
+- Design Description: 612 words
+- **Combined: 1,295 words**
 
 **Layout Pages:** 2 pages (as presented in sections 2.1 and 2.2)
 

@@ -71,6 +71,9 @@ Throughout the observation, Ms. Thompson's pedagogy consistently reflects respec
 
 ### 2.1 Indoor Environment Layout
 
+**Image Prompt for Indoor Layout:**
+"Create a top-down architectural floor plan view of an early childhood classroom for mixed-age groups (2-5 years). The room should be approximately 60m² with clearly defined learning areas separated by low shelving units and natural dividers. Include: entrance area with cubbies and family information display, open central space with soft carpeting for group times, construction/blocks area with wooden storage units, quiet reading corner with soft seating and bookshelves, dramatic play area with child-sized furniture, art and creativity station with easels and storage, sensory/science discovery table with natural lighting, and kitchen play area. Show child-accessible bathroom facilities and sliding doors to outdoor area. Use warm, natural colors with soft lighting indicators. Include furniture placement, storage solutions, and clear pathways for easy movement. Style: Clean architectural drawing with color coding for different zones."
+
 ```
      INDOOR LEARNING ENVIRONMENT PLAN
      (Mixed Age Group: 2-5 years)
@@ -109,6 +112,9 @@ Throughout the observation, Ms. Thompson's pedagogy consistently reflects respec
 
 ### 2.2 Outdoor Environment Layout
 
+**Image Prompt for Outdoor Layout:**
+"Design a top-down landscape plan for an early childhood outdoor learning environment suitable for mixed-age groups (2-5 years). The space should be approximately 200m² with natural and constructed play elements. Include: multi-level climbing structure with various access points for different ages, large sandpit with construction materials and shade sail, water play station with hand pump and channels, raised garden beds at child height with herb spiral, natural play area with arranged logs and large rocks for climbing/seating, bike path forming a figure-8 circuit with storage shed, quiet reflection shelter with natural materials, outdoor creative easel station, vegetable garden with composting area, and perimeter sensory garden with native plants. Show mature trees for shade, safety surfacing under equipment, and clear sightlines for supervision. Include fence line, gates, and storage areas. Style: Landscape architectural drawing with natural color palette showing plants, pathways, and play structures."
+
 ```
      OUTDOOR LEARNING ENVIRONMENT PLAN
      (Mixed Age Group: 2-5 years)
@@ -142,6 +148,20 @@ Throughout the observation, Ms. Thompson's pedagogy consistently reflects respec
 │              FENCE WITH SENSORY GARDEN                     │
 └─────────────────────────────────────────────────────────────┘
 ```
+
+## Additional Image Prompts for Learning Areas
+
+### 3.1 Construction & Blocks Area Image Prompt:
+"Photograph of a modern early childhood construction area with natural wooden blocks of various sizes, geometric shapes, and building accessories. Low, open wooden shelving with labeled bins for easy cleanup. Soft natural lighting from large windows. Neutral color palette with pops of color from building accessories. Include child-sized table and chairs, floor cushions, and a display area for completed constructions. Show diverse building materials including unit blocks, hollow blocks, and natural materials like smooth stones and wooden planks."
+
+### 3.2 Sensory/Science Discovery Area Image Prompt:
+"Close-up view of a natural materials discovery table with wooden trays containing collections of shells, pinecones, smooth stones, and interesting seed pods. Include child-friendly magnifying glasses, balance scales, measuring tools, and clear containers. Natural lighting highlighting texture differences. Include sensory bins with various natural materials, clipboards for recording observations, and reference books about nature displayed at child height."
+
+### 3.3 Natural Play Space Image Prompt:
+"Wide-angle photograph of outdoor natural play area with large logs arranged for climbing and seating in organic patterns. Incorporate smooth river rocks of varying sizes for stepping and balancing. Include native plants creating cozy spaces and natural boundaries. Show mulched pathways and natural materials scattered for loose parts play. Dappled sunlight through overhead trees, demonstrating safe but challenging natural play opportunities."
+
+### 3.4 Garden Beds & Herb Spiral Image Prompt:
+"Overhead view of raised garden beds at 60cm height with herbs, vegetables, and flowers suitable for child interaction. Include curved herb spiral with various aromatic plants. Show child-sized gardening tools, watering cans, and harvest baskets stored accessibly. Include identification labels with pictures and words, and a weather station nearby. Demonstrate different textures, colors, and heights of plants suitable for sensory exploration."
 
 ---
 
